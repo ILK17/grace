@@ -1,0 +1,22 @@
+{
+  "name": "grace",
+  "version": "1.0.0",
+  "description": "tea protocol",
+  "main": "100",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILK17/grace.git"
+  },
+  "keywords": [
+    "1771"
+  ],
+  "author": "Kraken17",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ILK17/grace/issues"
+  },
+  "homepage": "https://github.com/ILK17/grace#readme"
+}
