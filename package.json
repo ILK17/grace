@@ -20,3 +20,6 @@
   },
   "homepage": "https://github.com/ILK17/grace#readme"
 }
+"publishConfig": {
+  "@ILK17:registry": "https://npm.pkg.github.com"
+}
