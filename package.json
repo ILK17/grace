@@ -1,6 +1,6 @@
 {
-  "name": "grace",
-  "version": "1.0.0",
+  "name": "Node.js Package",
+  "version": "1.3.0",
   "description": "tea protocol",
   "main": "100",
   "scripts": {
